@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            
+            <ul>
+                <li><a href="#">Página Principal</a></li>
+            </ul>
+            <ul>
+                <li><a href="#">Sobre nós</a></li>
+            </ul>
+            <ul>
+                <li><a href="#">Horario de atendimento</a></li>
+            </ul>
+            <ul>
+                <li><a href="#">contatos</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="imagens/contatos">
+            </div>
+
+            <div class="content">
+                <h3>
+                    <p><b>A Clínica de Estética e Bem-Estar foi fundada em 2015 com o objetivo de proporcionar aos seus clientes uma experiência única de saúde e bem-estar. Com anos de atuação no mercado, a clínica é reconhecida por seus serviços de qualidade, que são realizados por uma equipe altamente qualificada e comprometida com a satisfação do cliente.<br>
+
+                        Dentre os serviços oferecidos, destacam-se o <i>micriagulhamento</i>, que é uma técnica que utiliza pequenas agulhas para estimular a produção de colágeno, auxiliando na quebra de lipose e melhorando a textura da pele. Além disso, a clínica oferece a <i>massagem modeladora</i>, que é uma técnica que atua na eliminação de líquidos e remanejamento de fluidos, ajudando a reduzir medidas e a definir o contorno corporal.<br>
+                        
+                        Outro serviço que tem sido muito procurado pelos clientes é a <i>aplicação de Gluteomax</i>, que é um método que utiliza corrente elétrica para estimular o músculo glúteo e promover o crescimento da região. Com <mark>resultados visíveis</mark> em poucas sessões, esse serviço tem conquistado cada vez mais adeptos.<br>
+                        
+                        Além desses serviços já mencionados, a clínica oferece outros procedimentos estéticos para <i>cuidados com a pele</i>, como <i>limpeza de pele</i>, <i>hidratação facial</i> e <i>rejuvenescimento facial</i>.<br>
+                        
+                        Com a nossa ampla variedade de serviços, a Clínica de Estética e Bem-Estar tem o compromisso de oferecer aos seus clientes o melhor em tratamentos estéticos, promovendo saúde, beleza e bem-estar em um ambiente agradável e acolhedor.<br> Venha nos conhecer e saia daqui melhor do que entrou!
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        </b>
+
+
+
+        </p>
+                
+            </div>
+
+            <div class="footer">
+                <h4>End: Rua alexandre claudio ,n 83 Telefone: 977556622, E-mail <E-mail:cini>clinicaesteta@gmail.com
+                </h4>            
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html
